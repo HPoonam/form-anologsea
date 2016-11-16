@@ -1,0 +1,80 @@
+* {
+  box-sizing: border-box;
+
+}
+body{
+	margin:0;
+  	font-family: "Roboto", sans-serif;
+}
+
+.container{
+	padding:20px;
+	background-color: navy;
+	max-width: 800px;
+	height:1000px;
+	margin:auto;
+}
+div .alogo{
+	margin-top: 20px;
+	display:block;
+	margin:auto;
+	height: 35px;
+}
+
+.form-box{
+	width:400px;
+	height:500px;
+	margin:auto;
+	background-color: white;
+	
+}
+.demoform{
+	padding-left:40px;
+	padding-right:40px;
+}
+
+.demoform label{
+	display: block;
+	margin-top:25px;
+	margin-bottom: 5px;
+	
+}
+
+h1{
+	padding-top: 15px;
+	font-family: arial;
+	font-size:25px;
+	color:grey;
+	text-align: center;
+}
+.demoform input{
+
+	margin-top:25px;
+	display: block;
+	width:320px;
+	height:55px;
+	padding:15px;
+	border:2px solid #eeeeee;
+
+}
+ button{
+ 	margin-top:25px;
+ 	margin-bottom: 25px;
+	height:55px;
+	width:320px;
+	background-color: green;
+	color:white;
+}
+
+a{
+	color:grey;
+	text-align: center;
+	margin-top: 25px;
+	font-size: 15px;
+	
+}
+ p {
+	text-align: center;
+	color:white;
+	margin:auto;
+}
